@@ -22,7 +22,7 @@ sudo apt install dnsutils -y
 Clone the repository:
 
 ```bash
-[wget https://github.com/yossefibrahimmohamed/zone.sh]
+wget https://github.com/yossefibrahimmohamed/zone.sh
 ```
 
 Navigate to the project directory:
