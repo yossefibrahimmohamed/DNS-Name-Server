@@ -28,7 +28,7 @@ git clone https://github.com/yossefibrahimmohamed/DNS-Name-Server.git
 Navigate to the project directory:
 
 ```bash
-cd zone.sh
+cd DNS-Name-Server
 ```
 
 Give the script execution permission:
