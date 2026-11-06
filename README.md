@@ -22,7 +22,7 @@ sudo apt install dnsutils -y
 Clone the repository:
 
 ```bash
-git clone https://github.com/yossefibrahimmohamed/zone.sh.git
+[git clone https://github.com/yossefibrahimmohamed/zone.sh.git](https://github.com/yossefibrahimmohamed/DNS-Name-Server.git)
 ```
 
 Navigate to the project directory:
